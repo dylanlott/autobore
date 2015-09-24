@@ -1,0 +1,14 @@
+Pillow==2.9.0
+PyAutoGUI==0.9.31
+PyMsgBox==1.0.3
+PyScreeze==0.1.7
+PyTweening==1.0.2
+decorator==4.0.2
+ipython==4.0.0
+ipython-genutils==0.1.0
+path.py==8.1.1
+pexpect==3.3
+pickleshare==0.5
+python3-xlib==0.15
+simplegeneric==0.8.1
+traitlets==4.0.0
